@@ -31,5 +31,8 @@ are related to that branch.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result is one branch, we represent it that way because it is now the current
+master branch.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
