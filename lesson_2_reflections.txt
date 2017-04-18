@@ -36,3 +36,20 @@ master branch.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Automatic
+Pros
+-
+We can later decide which methods works best
+
+Cons
+- You can end up with the same kind of code in one file
+
+
+Manually
+Pros
+- You can identify and use common sense as to
+what you should include in your final file commit
+
+Cons
+- you might have to go through a lot of code.
